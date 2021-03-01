@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.utilisateur {
+    border: black solid 1px;
+    margin: 20px;
+    font-size: 1.5rem;
+}
+
+.utilisateur2 {
+    border: blue solid 1px;
+    margin: 20px;
+    font-size: 1.5rem;
+}
+
+.utilisateur3 {
+    border: green solid 1px;
+    margin: 20px;
+    font-size: 1.5rem;
+}
